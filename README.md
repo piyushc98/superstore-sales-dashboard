@@ -3,7 +3,7 @@ An intermediate-level Power BI dashboard built using
 the Kaggle Superstore dataset (9,800 rows).
 
 ## 🔗 Dashboard File
-Download the .pbix file above to explore 
+Download the Superstore_Sales_Dashboard.pbix file above to explore 
 the interactive dashboard in Power BI Desktop.
 
 ## 📸 Screenshots
