@@ -2,7 +2,7 @@
 The Power BI dashboard built using the Kaggle Superstore dataset.
 
 ## 🔗 Dashboard File
-Download the Superstore_Sales_Dashboard.pbix file above to explore 
+Download [Download Superstore Sales Dashboard](./Superstore_Sales_Dashboard.pbix) file to explore 
 the interactive dashboard in Power BI Desktop.
 
 ## 📸 Screenshots
